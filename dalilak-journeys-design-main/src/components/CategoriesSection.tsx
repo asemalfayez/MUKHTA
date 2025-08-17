@@ -165,7 +165,7 @@ export function CategoriesSection({ language }: CategoriesSectionProps) {
       <div className="absolute inset-0 z-0">
         <div className="absolute top-10 left-10 w-64 h-64 bg-green-500/10 rounded-full blur-3xl animate-blob" />
         <div className="absolute bottom-10 right-10 w-80 h-80 bg-orange-500/10 rounded-full blur-3xl animate-blob animation-delay-2000" />
-        <div className="absolute top-1/2 left-1/2 w-96 h-96 bg-stone-600/10 rounded-full blur-3xl animate-blob animation-delay-4000 transform -translate-x-1/2 -translate-y-1/2" />
+        <div className="absolute top-1/2 left-1/2 w-6 h-96 bg-stone-600/10 rounded-full blur-3xl animate-blob animation-delay-4000 transform -translate-x-1/2 -translate-y-1/2" />
       </div>
     </section>
   );
